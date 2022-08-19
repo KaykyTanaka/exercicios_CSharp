@@ -1,4 +1,7 @@
-﻿Console.WriteLine("Digite um nome: ");
+﻿/* 03 – Crie um algoritmo que leia dois nomes e imprima os nomes na sequência em que
+foram escritos e posteriormente os imprima na ordem inversa. */
+
+Console.WriteLine("Digite um nome: ");
 string nome1 = Console.ReadLine();
 
 Console.WriteLine("Digite um segundo nome: ");

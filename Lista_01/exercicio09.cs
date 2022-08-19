@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Insira o valor da base do retangulo: ");
+﻿/* 09 – Elabore um algoritmo que calcule a área e o perímetro de um retângulo. */
+
+Console.WriteLine("Insira o valor da base do retangulo: ");
 double baseR = double.Parse(Console.ReadLine());
 
 Console.WriteLine("Insira o valor da altura do retangulo: ");

@@ -1,4 +1,12 @@
-﻿Console.WriteLine("Digite um numero: ");
+﻿/* 06 – Ler dois números e exibir as seguintes mensagens:
+ O números digitados foram ... e .... .
+ A soma dos números ... e ... é ... .
+ A subtração dos números ... e ... é ... .
+ A multiplicação dos números ... e ... é ... .
+ A divisão dos números ... e ... é ... .
+ A média dos números ... e ... é ... . */
+ 
+Console.WriteLine("Digite um numero: ");
 int num = int.Parse((Console.ReadLine()));
 
 Console.WriteLine("Digite outro numero: ");
