@@ -1,4 +1,5 @@
-﻿/* Utilizando a estrutura for crie um algoritmo que entre 
+﻿/*Exercício 72
+ Utilizando a estrutura for crie um algoritmo que entre 
 com cinco números e imprimir o quadrado de cada número */
 
 for (int i = 0; i < 5; i++)
